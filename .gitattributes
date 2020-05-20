@@ -1,0 +1,2 @@
+*.objective-c linguist-detectable=false
+*.dart linguist-detectable=true
