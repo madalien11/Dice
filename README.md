@@ -1,6 +1,7 @@
 # mydiceeflutter
 
-A new Flutter application.
+A stateful Dice app – Flutter app which implements functionality of dice rolling
+Online course by: https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart
 
 ## Getting Started
 
